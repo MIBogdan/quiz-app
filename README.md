@@ -4,7 +4,7 @@
 [![Tech Stack](https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JavaScript-black?style=flat-square)](#)
 
 
-> A simple product management application that allows users to add, view, and remove products.
+> A web-based quiz app that tests users with multiple-choice questions and calculates their final score.
 
 ## Overview
 **Quiz App** is an interactive web-based quiz that presents users with a series of multiple-choice questions. After answering all the questions, the app calculates and displays the total score. The project follows object-oriented programming (OOP) principles for structured and efficient functionality.
